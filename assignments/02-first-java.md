@@ -14,4 +14,10 @@ find Simple Interest.
 7. To calculate Fibonacci Series up to n numbers.
 8. To find out whether the given String is Palindrome or not.
 9. To find Armstrong Number between two given number.
+10. Write a program in Java to find out if a number is prime in Java.
+11. Write a program in Java to reverse any String without using StringBuffer.
+12. Write a program to calculate the square root of a number without using the Math.sqrt() function
+13. Write a program to reverse a singly linked list in Java.   
+14. Write a program to find the 3rd element from the tail of a singly linked list.
+15. Java Program to check if a vowel is present in the string.
 
